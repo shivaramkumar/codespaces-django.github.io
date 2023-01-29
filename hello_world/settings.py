@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django_browser_reload",
     "account",
-    "sk_codes"
+    "sk_codes",
+    "todo",
 ]
 
 MIDDLEWARE = [
